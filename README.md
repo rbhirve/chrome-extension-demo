@@ -1,3 +1,3 @@
-# chrome-extension-demo
+# Youtube player Chrome Extension
 
 Simple Chrome extension example
